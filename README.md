@@ -24,3 +24,5 @@ http://ceng1.cumhuriyet.edu.tr/datasets/kfd/
 -Please cite paper below for using the dataset;
 
 SEKER, Abdulkadir "Stacked Autoencoder Method for Fabric Defect Detection." Cumhuriyet Science Journal 38.2 (2017).
+
+https://dergipark.org.tr/en/pub/cumuscij/issue/28771/300261
