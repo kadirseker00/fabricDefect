@@ -4,7 +4,7 @@ Korteks Fabric Dataset (KFD)
 
 -Source images are in FABRIC folder. 
 
--ìcreatePatchAutoî script generates 5000 (500 patch per source image) random patches.
+-createPatchAuto script generates 5000 (500 patch per source image) random patches.
 
 -The dataset are includes 100x100 patches  with 0.2 resize parameters.
 
