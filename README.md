@@ -1,6 +1,8 @@
-# fabricDefect
+# Korteks Fabric Dataset (KFD)
 
-Korteks Fabric Dataset (KFD)
+Dataset is can be found in this page;
+
+http://ceng1.cumhuriyet.edu.tr/datasets/kfd/
 
 -Source images are in FABRIC folder. 
 
