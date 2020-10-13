@@ -15,6 +15,7 @@ Korteks Fabric Dataset (KFD)
 
 SEKER, Abdulkadir "Stacked Autoencoder Method for Fabric Defect Detection." Cumhuriyet Science Journal 38.2 (2017).
 
+
 @article{seker2017stacked,
   title={Stacked autoencoder method for fabric defect detection},
   author={Seker, Abdulkadir and YUKSEK, A G{\"u}rkan},
